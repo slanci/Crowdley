@@ -1,5 +1,3 @@
-03 
-
 CROWDLEY  
 
 An Android  application for Bilkent members to be able to see the level of density of particular areas through a Bilkent map, 
