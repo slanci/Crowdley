@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:12:5-49:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\nursen\.android\build-cache\f309e0ed7053a88b9b20b8a019dd1cafd0f021c5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\nursen\.android\build-cache\021d06211b1fdd645d3ad9cfffdccd6cfd0e3290\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\nursen\.android\build-cache\a6f7571902d3da5c64a7de28dee7258ffb95552a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nursen\.android\build-cache\b198f2e28a7cc809942ff486dd46ecd1e5b99df0\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nursen\.android\build-cache\c0483af795bbe04c25a6c8f6498d8baca0cc64c3\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nursen\.android\build-cache\41f072c4317f325c397b9490f80578ffd5f147a1\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\nursen\.android\build-cache\e64b8f3ce631b076a70cb490d767eb0a1e1e1ce7\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nursen\.android\build-cache\a14368914327efed7ba39f901a8b5f832b63dc02\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nursen\.android\build-cache\ddc191e0101ade13f9edb3e6779d69b5bbc7e044\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\nursen\.android\build-cache\60d7dd57c8c617c2d696eb99ea54e4d02523827a\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\nursen\.android\build-cache\84f170661ceb597fa744976c87aff10f72519f97\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\nursen\.android\build-cache\5f5d8fb74828e0b59f626f54b246d651e6be22e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\nursen\.android\build-cache\84366b73f841f67643232fc2d331b8e31df9572a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\nursen\.android\build-cache\31eb7cd74cbfcc066718a0062a6b3156b3257642\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\nursen\.android\build-cache\b3316b5d65d18553abc485a039f4a58151c09f9d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\nursen\.android\build-cache\f90b0b36ec03d4201de49c3e3de3ab85a516ccc1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\nursen\.android\build-cache\141dd8cfda409bcca585a1341d2059c3e508d250\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:14:9-38
+	android:theme
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:18:9-52
+activity#com.thelaters.cs102project.crowdleyv20.OpeningActivity
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:19:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.thelaters.cs102project.crowdleyv20.CheckinActivity
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:26:9-53
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:26:19-50
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:35:9-37:55
+	android:value
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:37:13-52
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:36:13-58
+activity#com.thelaters.cs102project.crowdleyv20.MapsActivity
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:39:9-41:59
+	android:label
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:40:13-41
+activity#com.thelaters.cs102project.crowdleyv20.BuildingList
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:42:9-50
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:42:19-47
+activity#com.thelaters.cs102project.crowdleyv20.page
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:43:9-42
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:43:19-39
+activity#com.thelaters.cs102project.crowdleyv20.CafeList
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:44:9-46
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:44:19-43
+activity#com.thelaters.cs102project.crowdleyv20.About
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:45:9-43
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:45:19-40
+activity#com.thelaters.cs102project.crowdleyv20.OpenAreasList
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:46:9-51
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:46:19-48
+activity#com.thelaters.cs102project.crowdleyv20.SportCentersList
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:47:9-54
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:47:19-51
+activity#com.thelaters.cs102project.crowdleyv20.SportsCentersList
+ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:48:9-64
+	android:name
+		ADDED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml:48:19-52
+uses-sdk
+INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\nursen\.android\build-cache\f309e0ed7053a88b9b20b8a019dd1cafd0f021c5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\nursen\.android\build-cache\021d06211b1fdd645d3ad9cfffdccd6cfd0e3290\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\nursen\.android\build-cache\a6f7571902d3da5c64a7de28dee7258ffb95552a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nursen\.android\build-cache\b198f2e28a7cc809942ff486dd46ecd1e5b99df0\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\nursen\.android\build-cache\6aca8683e4b96d56cd1d09f984b28da38624c0ab\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\nursen\.android\build-cache\9e035cf439676fdaaba2eb8d5db425610a9231ae\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nursen\.android\build-cache\c0483af795bbe04c25a6c8f6498d8baca0cc64c3\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nursen\.android\build-cache\41f072c4317f325c397b9490f80578ffd5f147a1\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\nursen\.android\build-cache\e64b8f3ce631b076a70cb490d767eb0a1e1e1ce7\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nursen\.android\build-cache\a14368914327efed7ba39f901a8b5f832b63dc02\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nursen\.android\build-cache\ddc191e0101ade13f9edb3e6779d69b5bbc7e044\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\nursen\.android\build-cache\60d7dd57c8c617c2d696eb99ea54e4d02523827a\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\nursen\.android\build-cache\84f170661ceb597fa744976c87aff10f72519f97\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\nursen\.android\build-cache\5f5d8fb74828e0b59f626f54b246d651e6be22e7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\nursen\.android\build-cache\84366b73f841f67643232fc2d331b8e31df9572a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\nursen\.android\build-cache\31eb7cd74cbfcc066718a0062a6b3156b3257642\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\nursen\.android\build-cache\b3316b5d65d18553abc485a039f4a58151c09f9d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\nursen\.android\build-cache\f90b0b36ec03d4201de49c3e3de3ab85a516ccc1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\nursen\.android\build-cache\141dd8cfda409bcca585a1341d2059c3e508d250\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\nursen\.android\build-cache\f309e0ed7053a88b9b20b8a019dd1cafd0f021c5\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nursen\Desktop\Crowdley\Crowdleyv2.0\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\nursen\.android\build-cache\f309e0ed7053a88b9b20b8a019dd1cafd0f021c5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\nursen\.android\build-cache\021d06211b1fdd645d3ad9cfffdccd6cfd0e3290\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\nursen\.android\build-cache\a6f7571902d3da5c64a7de28dee7258ffb95552a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\nursen\.android\build-cache\5f5d8fb74828e0b59f626f54b246d651e6be22e7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\nursen\.android\build-cache\84366b73f841f67643232fc2d331b8e31df9572a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\nursen\.android\build-cache\31eb7cd74cbfcc066718a0062a6b3156b3257642\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\nursen\.android\build-cache\b3316b5d65d18553abc485a039f4a58151c09f9d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\nursen\.android\build-cache\f90b0b36ec03d4201de49c3e3de3ab85a516ccc1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\nursen\.android\build-cache\141dd8cfda409bcca585a1341d2059c3e508d250\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\nursen\.android\build-cache\f309e0ed7053a88b9b20b8a019dd1cafd0f021c5\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\nursen\.android\build-cache\f309e0ed7053a88b9b20b8a019dd1cafd0f021c5\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nursen\.android\build-cache\c0483af795bbe04c25a6c8f6498d8baca0cc64c3\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nursen\.android\build-cache\a14368914327efed7ba39f901a8b5f832b63dc02\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nursen\.android\build-cache\c0483af795bbe04c25a6c8f6498d8baca0cc64c3\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nursen\.android\build-cache\c0483af795bbe04c25a6c8f6498d8baca0cc64c3\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nursen\.android\build-cache\a14368914327efed7ba39f901a8b5f832b63dc02\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nursen\.android\build-cache\c0483af795bbe04c25a6c8f6498d8baca0cc64c3\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nursen\.android\build-cache\c0483af795bbe04c25a6c8f6498d8baca0cc64c3\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nursen\.android\build-cache\c0483af795bbe04c25a6c8f6498d8baca0cc64c3\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nursen\.android\build-cache\c0483af795bbe04c25a6c8f6498d8baca0cc64c3\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nursen\.android\build-cache\41f072c4317f325c397b9490f80578ffd5f147a1\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nursen\.android\build-cache\41f072c4317f325c397b9490f80578ffd5f147a1\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nursen\.android\build-cache\41f072c4317f325c397b9490f80578ffd5f147a1\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nursen\.android\build-cache\41f072c4317f325c397b9490f80578ffd5f147a1\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nursen\.android\build-cache\a14368914327efed7ba39f901a8b5f832b63dc02\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nursen\.android\build-cache\a14368914327efed7ba39f901a8b5f832b63dc02\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nursen\.android\build-cache\a14368914327efed7ba39f901a8b5f832b63dc02\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nursen\.android\build-cache\8f81cac42a63e1bb6d4c5f2184966cfe44d34af3\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nursen\.android\build-cache\ddcdcf50a4c632376aae30e82b957d2a58766235\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nursen\.android\build-cache\ddc191e0101ade13f9edb3e6779d69b5bbc7e044\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nursen\.android\build-cache\ddc191e0101ade13f9edb3e6779d69b5bbc7e044\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nursen\.android\build-cache\ddc191e0101ade13f9edb3e6779d69b5bbc7e044\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nursen\.android\build-cache\ddc191e0101ade13f9edb3e6779d69b5bbc7e044\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nursen\.android\build-cache\ddc191e0101ade13f9edb3e6779d69b5bbc7e044\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\nursen\.android\build-cache\84f170661ceb597fa744976c87aff10f72519f97\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\nursen\.android\build-cache\84f170661ceb597fa744976c87aff10f72519f97\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\nursen\.android\build-cache\84f170661ceb597fa744976c87aff10f72519f97\output\AndroidManifest.xml:20:20-65
