@@ -1,0 +1,2 @@
+# Crowdley
+This is an Android application me and my 4 other friends have developed for our a first year class. Crowdley allows users to get information about a specific place on the Bilkent University Campus. The data which is gathered by users’ GPS shows whether the place or building is crowded and what events are going to take place there and what time they are going to happen. It allows students and teachers to find someone they are looking for if that specific person hasn't put their current information as anonymous.
